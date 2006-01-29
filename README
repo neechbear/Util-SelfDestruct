@@ -1,0 +1,8 @@
+This module will prevent execution of your script by either dying or
+deleting (unlinking) the script from disk after it is executed. This
+can be useful if you have written a script for somebody that must
+never be executed more than once. A database upgrade script for example.
+
+The 'self destruct' mechanism can be achieved through deleting the
+script so that it cannot be executed again, or by dying (terminating
+the scripts execution).

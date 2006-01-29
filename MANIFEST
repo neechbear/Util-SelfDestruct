@@ -1,0 +1,14 @@
+ChangeLog
+Changes
+INSTALL
+lib/Util/SelfDestruct.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml
+NOTICE
+README
+t/01pod.t
+t/01tests.t
+t/02pod_coverage.t
+TODO
