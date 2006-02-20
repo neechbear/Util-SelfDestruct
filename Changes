@@ -1,3 +1,7 @@
+Version 1.21 - 20th February 2006
+    + Changed to build with Module::Build from
+      svn instead of cvs repository
+
 Version 1.20 - 12th January 2006
     + Fixed unit tests which will never work under
       Win32 to skip under Win32.
