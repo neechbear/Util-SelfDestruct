@@ -1,0 +1,9 @@
+<SOFTPKG NAME="Util-SelfDestruct" VERSION="1,21,0,0">
+    <TITLE>Util-SelfDestruct</TITLE>
+    <ABSTRACT>Conditionally prevent execution of a script</ABSTRACT>
+    <AUTHOR>Nicola Worthington &lt;nicolaw@cpan.org&gt;</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="Carp" VERSION="0,0,0,0" />
+        <CODEBASE HREF="PPM-Util-SelfDestruct-1.21.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>
