@@ -34,7 +34,7 @@ BEGIN {
 	use constant RC_FILE => HOME.'/.selfdestruct';
 
 	use vars qw($VERSION $PARAM);
-	$VERSION = sprintf('%d.%02d', q$Revision: 1.20 $ =~ /(\d+)/g);
+	$VERSION = '1.21' || sprintf('%d.%02d', q$Revision$ =~ /(\d+)/g);
 	$PARAM = {};
 }
 
